@@ -1,5 +1,14 @@
-# 💫 About Me:
-I'm working on mern stack<br>I'm doing an internship in ardentix technologices from feb 1 to feb 28<br>I'm currently working on I'm working on mern stack<br>I'm doing an internship in ardentix technologices from feb 1 to feb 28<br>I'm currently working on Ryosui ai-career-coachRyosui ai-career-coach
+💫 About Me
+
+Hi 👋 I’m Siddhartha, a passionate MERN Stack Developer.
+
+🚀 Currently working on MERN stack development
+
+🤖 Building Ryosui – AI Career Coach, an AI-driven career guidance platform
+
+💼 Intern at Ardentix Technologies (Feb 1 – Feb 28)
+
+🌱 Always learning modern web technologies and scalable backend systems
 
 
 ## 🌐 Socials:
